@@ -1,3 +1,3 @@
 # Coursera
-Used during "IBM tools for Data Science" course
+Used in "IBM tools for Data Science" course
 ## List of Content
